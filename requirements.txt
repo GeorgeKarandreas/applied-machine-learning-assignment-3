@@ -1,5 +1,9 @@
 pandas
 numpy
-matplotlib
-seaborn
+requests
+optuna
 scikit-learn
+xgboost
+lightgbm
+tensorflow
+matplotlib
