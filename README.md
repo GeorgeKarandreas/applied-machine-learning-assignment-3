@@ -3,3 +3,5 @@
 Repository for 3rd applied machine learning assignments
 
 To download requirements run : `pip install -r requirements.txt`
+
+`other_models_report` is just a log of previous attempts
